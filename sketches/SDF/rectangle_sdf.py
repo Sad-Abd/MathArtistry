@@ -14,11 +14,11 @@ def draw():
     # Translate the drawing origin to the center of the window
     py5.translate(py5.width / 2, py5.height / 2)
 
-    # Define the rectangle parameters
+    # Define the rectangle corners
     x1 = -100
-    y1 = -80
+    y1 = -100
     x2 = 100
-    y2 = 80
+    y2 = 100
 
     # Draw a rectangle with the specified parameters
     py5.stroke(0)  # Set the stroke color to black
@@ -45,7 +45,7 @@ def draw():
 def signed_distance_function(x, y, x1, y1, x2, y2):
     """
     Calculate the signed distance from a point (x, y) to a rectangle defined
-    by its top-left (x1, y1) and bottom-right (x2, y2) coordinates.
+    by its bottom-left (x1, y1) and top-right (x2, y2) coordinates.
     """
 
     # Calculate the perpendicular distances from the point to the edges of the rectangle
