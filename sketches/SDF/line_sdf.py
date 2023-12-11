@@ -4,9 +4,11 @@ import numpy as np
 # Define the starting point and end point of the line
 p1, p2 = (0, 0), (np.random.rand() * py5.width, np.random.rand() * py5.height)
 
+
 def setup():
     # Set the window size to 400x400 pixels
     py5.size(400, 400)
+
 
 def draw():
     # Clear the screen with white color
@@ -46,12 +48,14 @@ def draw():
         "SDF Value: {:.2f}".format(sdf_value), -py5.width / 2 + 10, py5.height / 2 - 20
     )
 
+
 def draw_line(p1, p2):
     # Create a line with the given points
     py5.begin_shape()
     py5.vertex(*p1)  # Start point
     py5.vertex(*p2)  # End point
     py5.end_shape()
+
 
 def dLine(P, x1, y1, x2, y2):
     """
@@ -63,5 +67,6 @@ def dLine(P, x1, y1, x2, y2):
     b = P - np.array([x1, y1])
     d = np.dot(b, np.array([a[1], -a[0]]))
     return d[0]
+
 
 py5.run_sketch()
