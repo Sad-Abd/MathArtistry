@@ -23,7 +23,8 @@ Explore a collection of sketches that merge the beauty of code with mathematical
 ## Table of Contents
 
 - [Sketch 1: Circle SDF](/sketches/SDF/circle_sdf.py)
-- ...
+- [Sketch 2: Line SDF](/sketches/SDF/line_sdf.py)
+- [Sketch 3: Rectangle SDF](/sketches/SDF/rectangle_sdf.py)
 
 ## Running the Sketches
 
