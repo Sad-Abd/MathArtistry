@@ -26,7 +26,7 @@ Explore a collection of sketches that merge the beauty of code with mathematical
     - [Sketch 3: Rectangle SDF](/sketches/SDF/rectangle_sdf.py)
 
 - [Coding Art Book Examples](https://github.com/codingart-book/examples) (Translated from `Processing`/`p5.js` to `py5`) [_in progress_]
-    * Chapter [Idea to visuals](/sketches/Coding_Art_Book/examples/1_chapter_idea_to_visuals) ![Progress Bar](https://progress-bar.dev/3/?scale=4&title=Sections&suffix=/4)
+    * Chapter [Idea to visuals](/sketches/Coding_Art_Book/examples/1_chapter_idea_to_visuals) ![Progress Bar](https://progress-bar.dev/4/?scale=4&title=Sections&suffix=/4)
     * Chapter [Composition and structure](/sketches/Coding_Art_Book/examples/2_chapter_composition_and_structure) ![Progress Bar](https://progress-bar.dev/0/?scale=2&title=Sections&suffix=/2)
     * Chapter [Refinement and depth](/sketches/Coding_Art_Book/examples/3_chapter_refinement_and_depth) ![Progress Bar](https://progress-bar.dev/0/?scale=4&title=Sections&suffix=/4)
     * Chapter [Completion and production](/sketches/Coding_Art_Book/examples/4_chapter_completion_and_production) ![Progress Bar](https://progress-bar.dev/0/?scale=4&title=Sections&suffix=/4)
