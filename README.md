@@ -2,11 +2,10 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Made with love in SUT (Iran)][sut-badge]][sut-add]
+<!--[![Made with love in SUT (Iran)][sut-badge]][sut-add]-->
 
-[license-url]: https://github.com/Sad-Abd/MathArtistry/blob/master/LICENSE.txt
+[license-url]: https://github.com/Sad-Abd/MathArtistry/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/seyed-sadjad-abedi-shahri
 [sut-add]: https://sut.ac.ir
@@ -43,7 +42,7 @@ To run the sketches, follow the instructions provided in each sketch's README or
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for details.
 
 
 <!-- CONTACT -->
