@@ -1,5 +1,4 @@
 import py5
-import numpy as np
 
 
 def setup():
