@@ -20,20 +20,34 @@ Welcome to the MathArtistry repository – where creative coding meets mathemati
 Explore a collection of sketches that merge the beauty of code with mathematical concepts. Each sketch is a unique journey into the world of visual mathematics.
 
 ## Table of Contents
-- Signed Distance Functions:
-    - [Sketch 1: Circle SDF](/sketches/SDF/circle_sdf.py)
-    - [Sketch 2: Line SDF](/sketches/SDF/line_sdf.py)
-    - [Sketch 3: Rectangle SDF](/sketches/SDF/rectangle_sdf.py)
+<details>
+  <summary>Signed Distance Functions</summary>
 
-- [Coding Art Book Examples](https://github.com/codingart-book/examples) (Translated from `Processing`/`p5.js` to `py5`) [_in progress_]
-    * Chapter [Idea to visuals](/sketches/Coding_Art_Book/examples/1_chapter_idea_to_visuals) ![Progress Bar](https://progress-bar.dev/4/?scale=4&title=Sections&suffix=/4)
-    * Chapter [Composition and structure](/sketches/Coding_Art_Book/examples/2_chapter_composition_and_structure) ![Progress Bar](https://progress-bar.dev/0/?scale=2&title=Sections&suffix=/2)
-    * Chapter [Refinement and depth](/sketches/Coding_Art_Book/examples/3_chapter_refinement_and_depth) ![Progress Bar](https://progress-bar.dev/0/?scale=4&title=Sections&suffix=/4)
-    * Chapter [Completion and production](/sketches/Coding_Art_Book/examples/4_chapter_completion_and_production) ![Progress Bar](https://progress-bar.dev/0/?scale=4&title=Sections&suffix=/4)
-    * Chapter [Intermission: MOUNTROTHKO](/sketches/Coding_Art_Book/examples/5_chapter_intermission_MOUNTROTHKO) ![Progress Bar](https://progress-bar.dev/0/?scale=2&title=Sections&suffix=/2)
-    * Chapter [Flow fields and particle storms](/sketches/Coding_Art_Book/examples/6_chapter_flow_fields) ![Progress Bar](https://progress-bar.dev/0/?scale=5&title=Sections&suffix=/5)
-    * Chapter [Making sense of touch and sensors](/sketches/Coding_Art_Book/examples/7_chapter_touch_and_sensors) ![Progress Bar](https://progress-bar.dev/0/?scale=4&title=Sections&suffix=/4)
-    * Extras: [Miscellaneous code examples](/sketches/Coding_Art_Book/examples/E_extras) ![Progress Bar](https://progress-bar.dev/0/?scale=6&title=Sections&suffix=/6)
+- [Sketch 1: Circle SDF](/sketches/SDF/circle_sdf.py)
+- [Sketch 2: Line SDF](/sketches/SDF/line_sdf.py)
+- [Sketch 3: Rectangle SDF](/sketches/SDF/rectangle_sdf.py)
+- [Sketch 4: Union of SDFs](/sketches/SDF/union_sdf.py)
+- [Sketch 5: Difference of SDFs](/sketches/SDF/diff_sdf.py)
+- [Sketch 6: Intersection of SDFs](/sketches/SDF/intersect_sdf.py)
+- [Sketch 7: Rectangle by Intersection of SDFs](/sketches/SDF/rect_by_intersect_sdf.py)
+
+</details>
+
+<details>
+  <summary><a href="https://github.com/codingart-book/examples">Coding Art Book Examples</a> (Translated from <code>Processing</code>/<code>p5.js</code> to <code>py5</code>) <em>[in progress]</em>
+</summary>
+
+* Chapter [Idea to visuals](/sketches/Coding_Art_Book/examples/1_chapter_idea_to_visuals) ![Progress Bar](https://progress-bar.dev/4/?scale=4&title=Sections&suffix=/4)
+* Chapter [Composition and structure](/sketches/Coding_Art_Book/examples/2_chapter_composition_and_structure) ![Progress Bar](https://progress-bar.dev/1/?scale=2&title=Sections&suffix=/2)
+* Chapter [Refinement and depth](/sketches/Coding_Art_Book/examples/3_chapter_refinement_and_depth) ![Progress Bar](https://progress-bar.dev/0/?scale=4&title=Sections&suffix=/4)
+* Chapter [Completion and production](/sketches/Coding_Art_Book/examples/4_chapter_completion_and_production) ![Progress Bar](https://progress-bar.dev/0/?scale=4&title=Sections&suffix=/4)
+* Chapter [Intermission: MOUNTROTHKO](/sketches/Coding_Art_Book/examples/5_chapter_intermission_MOUNTROTHKO) ![Progress Bar](https://progress-bar.dev/0/?scale=2&title=Sections&suffix=/2)
+* Chapter [Flow fields and particle storms](/sketches/Coding_Art_Book/examples/6_chapter_flow_fields) ![Progress Bar](https://progress-bar.dev/0/?scale=5&title=Sections&suffix=/5)
+* Chapter [Making sense of touch and sensors](/sketches/Coding_Art_Book/examples/7_chapter_touch_and_sensors) ![Progress Bar](https://progress-bar.dev/0/?scale=4&title=Sections&suffix=/4)
+* Extras: [Miscellaneous code examples](/sketches/Coding_Art_Book/examples/E_extras) ![Progress Bar](https://progress-bar.dev/0/?scale=6&title=Sections&suffix=/6)
+
+</details>
+
 
 ## Running the Sketches
 
